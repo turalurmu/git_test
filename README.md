@@ -1,0 +1,1 @@
+This is Tural's first git project!
